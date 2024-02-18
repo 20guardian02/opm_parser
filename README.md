@@ -9,6 +9,9 @@
   <li><дата>_find_<искоммый_тег>.json - Отчёт поиска схожего текста в теге</li>
   <li><дата>_get_atr.json - Отчёт получения значения атрибута(свойста) в теге</li>
 </ul>
-
+<p>Для работы программы нужно скачать все файлы из репозитория и отдельно .exe файл для запуска</p>
+<p>
+  <a href="https://drive.google.com/file/d/1L_X2bSuzErXhzSKLXNRUtWLYzscdaNXC/view?usp=drive_link">Ссылка на .exe файл</a>
+</p>
   
   
