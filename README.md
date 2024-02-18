@@ -13,5 +13,5 @@
 <p>
   <a href="https://drive.google.com/file/d/1L_X2bSuzErXhzSKLXNRUtWLYzscdaNXC/view?usp=drive_link">Ссылка на .exe файл</a>
 </p>
-  
+<p>.exe файл необходимо скачать в одну папку с файлами из репозитория</p>
   
